@@ -1,1 +1,4 @@
  Hi this is about to practise git and github.
+ my name is ashik
+ my age is 23
+ here this two data is my second commit.
